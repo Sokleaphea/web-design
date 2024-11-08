@@ -1,0 +1,46 @@
+body {
+    background-color: grey;
+    font-family: sans-serif;
+    place-items: center;
+}
+.box-1 {
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 500px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.button-1, .button-2, .button-3 {
+    cursor: pointer;
+}
+.button-1:hover, .button-2:hover, .button-3:hover{
+    transform:scale(1.1);
+}
+.box-2 {
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 500px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.box-3 {
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 500px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
